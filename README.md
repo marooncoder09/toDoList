@@ -12,7 +12,7 @@
         <h3>Installation</h3>
         <p>To install the todo application, follow these steps:</p>
         <ol>
-            <li>Clone the repository: git clone https://github.com/marooncoder09/todo-app.git</li>
+            <li>Clone the repository: git clone https://github.com/marooncoder09/toDoList.git</li>
             <li>Install the dependencies: npm install
             </li>
             <li>Start the application: npm start
